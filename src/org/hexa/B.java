@@ -16,6 +16,7 @@ public class B {
 	public static void main(String[] args) {
 		B b=new B();
 		 b.test(100);
+		System.out.println("Hello Dinesh");
 		
 	}
 
